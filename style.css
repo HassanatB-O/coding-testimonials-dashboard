@@ -122,4 +122,8 @@ span{
     #quote{
         font-size: 22px;
     }
+    #name{
+        display: flex;
+        flex-direction: column;
+    }
 }
